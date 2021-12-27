@@ -6,3 +6,4 @@
 - Port: 3 x USB 3.0, HDMI, Ethernet, SD Card reader
 - Wireless Card: Intel AC 3165
 - Camera: 720p webcam
+- Audio Adapter: Realtek ALC256
